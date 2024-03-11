@@ -9,5 +9,5 @@ variable "aws_access_token" {
 }
 variable "aws_secret" {
   description = "AWS secret (base64 encoded)"
-  default = "kdZ//HzLyz2ApIzzeScHxcErnfrwU1dtsDEIzgJY"
+  default = "a2RaLy9Iekx5ejJBcEl6emVTY0h4Y0VybmZyd1UxZHRzREVJemdKWQo="
 }
